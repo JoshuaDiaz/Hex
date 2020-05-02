@@ -13,6 +13,7 @@ The blue player must make a connected set of blue hexagons from east to west. Th
 
 ## Playing This Game
 You can play this game by running the [executable](https://github.com/JoshuaDiaz/Hex/blob/master/Hex.exe) on this repo.
+
 This implementation of the game allows any dimension of board to be played on. In fact this is the first thing prompted to the player:
 
 ![Choose the board size!](https://github.com/JoshuaDiaz/Hex/blob/master/Images/BoardSize.PNG "Choose the board size!")
