@@ -12,6 +12,7 @@ The game of Hex was invented in 1942 by Piet Hein, and independently reinvented 
 The blue player must make a connected set of blue hexagons from east to west. The red player must do the same from north to south. At each turn a player chooses any unoccupied hexagon and gives it their color.
 
 ## Playing This Game
+You can play this game by running the [executable](https://github.com/JoshuaDiaz/Hex/blob/master/Hex.exe) on this repo.
 This implementation of the game allows any dimension of board to be played on. In fact this is the first thing prompted to the player:
 
 ![Choose the board size!](https://github.com/JoshuaDiaz/Hex/blob/master/Images/BoardSize.PNG "Choose the board size!")
