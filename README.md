@@ -1,7 +1,7 @@
 
 ![Hex](https://github.com/JoshuaDiaz/Hex/blob/master/Images/HexImg.PNG "Image Source: Wikipedia")
 # Hex
-The game of Hex played in the terminal.
+The game of Hex played in the terminal. Made for fun
 
 
 ## The Game of Hex
